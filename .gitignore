@@ -1,0 +1,4 @@
+.vs/
+lib/
+foo_drpc/discord_register.h
+foo_drpc/discord_rpc.h
